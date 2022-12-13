@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Askar
 
+![](https://komarev.com/ghpvc/?username=AskarSariev)
+
 ## I'm a Java Developer
 - 💪 I like to write code
 - 🥅 I am constantly learning new things
