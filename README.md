@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Askar
 
-![](https://komarev.com/ghpvc/?username=AskarSariev)
-
 ## I'm a Java Developer
 - 💪 I like to write code
 - 🥅 I am constantly learning new things
@@ -33,3 +31,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AskarSariev&layout=compact)
 
 [linkedin]: https://www.linkedin.com/in/askar-sariev-589070205/
+
+![](https://komarev.com/ghpvc/?username=AskarSariev)
