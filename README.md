@@ -35,9 +35,9 @@
 <br />
 <br />
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AskarSariev)-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AskarSariev)
 <br />
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AskarSariev&layout=compact)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AskarSariev&layout=compact)
 
 [linkedin]: https://www.linkedin.com/in/askar-sariev-589070205/
 [telegram]: https://t.me/AskarSariev
