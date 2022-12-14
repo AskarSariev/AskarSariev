@@ -4,12 +4,12 @@
 
 ---
 
-### Hi there 👋, I'm Askar
+### Hi there 🖐️, I'm Askar
 
 ## I'm a junior Java backend developer
 - 💪 I've been learning Java 2,5 years or 2500 hours.
 - ✌️  I've learned such tools as Java, Spring (Core, Web, REST, Data, Security), Hibernate, PostgreSQL.
-- 👌  Now I write projects and plan such tools as JUnit, Mockito, Spring Test, Swagger, Docker, Kubernetes,
+- 👌  Now I write projects and plan to learn such tools as JUnit, Mockito, Spring Test, Swagger, Docker, Kubernetes,
       Kafka, CI/CD and many more.
 
 ### Connect with me:
