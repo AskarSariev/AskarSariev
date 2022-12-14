@@ -42,4 +42,4 @@
 [linkedin]: https://www.linkedin.com/in/askar-sariev-589070205/
 [telegram]: https://t.me/AskarSariev
 
-<!--![](https://komarev.com/ghpvc/?username=AskarSariev)-->
+![](https://komarev.com/ghpvc/?username=AskarSariev)
