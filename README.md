@@ -6,7 +6,7 @@
 
 ### Hi there 🖐️, I'm Askar
 
-## I'm a junior Java backend developer
+## I'm a beginer Java backend developer
 - 💪 I've been learning Java 2,5 years or 2500 hours.
 - ✌️  I've learned such tools as Java, Spring (Core, Web, REST, Data, Security), Hibernate, PostgreSQL.
 - 👌  Now I write pet-projects and ready for real work.
@@ -16,6 +16,7 @@
 ### Connect with me:
 
 [<img align="left" alt="AskarSariev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AskarSariev | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" />][telegram]
 
 <br />
 
@@ -34,10 +35,11 @@
 <br />
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AskarSariev)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AskarSariev)-->
 <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AskarSariev&layout=compact)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AskarSariev&layout=compact)-->
 
 [linkedin]: https://www.linkedin.com/in/askar-sariev-589070205/
+[telegram]: https://t.me/AskarSariev
 
-![](https://komarev.com/ghpvc/?username=AskarSariev)
+<!--![](https://komarev.com/ghpvc/?username=AskarSariev)-->
