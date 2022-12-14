@@ -2,13 +2,14 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+---
+
 ### Hi there 👋, I'm Askar
 
 ## I'm a Java Developer
 - 💪 I like to write code
 - 🥅 I am constantly learning new things
-- ⚡ I love writing articles
-- 🤹🏽 I like to watch youtube videos on programming  
+- 🤹🏽 I love reading articles and watching youtube videos on programming  
 
 ### Connect with me:
 
@@ -17,6 +18,8 @@
 <br />
 
 ### Languages and Tools:
+
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" />
 <!--
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
