@@ -8,8 +8,9 @@
 
 ## I'm a junior Java backend developer
 - 💪 I've been learning Java 2,5 years or 2500 hours.
-- 🥅 I've mastered such tools as Java, Spring (Core, Web, REST, Data, Security), Hibernate, PostgreSQL.
-- 🤹🏽 I like reading articles and watching youtube videos on programming  
+- ✌️  I've learned such tools as Java, Spring (Core, Web, REST, Data, Security), Hibernate, PostgreSQL.
+- 👌  Now I write projects and plan such tools as JUnit, Mockito, Spring Test, Swagger, Docker, Kubernetes,
+      Kafka, CI/CD and many more.
 
 ### Connect with me:
 
