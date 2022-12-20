@@ -4,6 +4,7 @@
 <div display: inline-block; align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="200" height="200"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="200" height="200"/>
+    <img src="https://icon-library.com/images/hibernate-icon/hibernate-icon-0.jpg" title="Hibernate" alt="Hibernate" width="200" height="200"/>
 </div>
 
 
