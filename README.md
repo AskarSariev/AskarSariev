@@ -1,6 +1,8 @@
-<div align="center">
+<!--<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+</div>-->
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="300" height="300"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="300" height="300"/>
 
 ---
 
@@ -10,7 +12,7 @@
 - 💪 I've been learning Java 2,5 years or 2500 hours.
 - ✌️  I've learned such tools as Java, Spring (Core, Web, REST, Data, Security), Hibernate, PostgreSQL.
 - 👌  Now I write pet-projects and I'm ready for real work.
-- 🧠 In addition, I plan to learn such tools as JUnit, Mockito, Spring Test, Swagger, Docker, Kubernetes,
+- 🧠 I plan to learn such tools as JUnit, Mockito, Spring Test, Swagger, Docker, Kubernetes,
       Kafka, CI/CD and many other things. I like writting code.
 
 ### Connect with me:
