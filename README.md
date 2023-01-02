@@ -7,16 +7,15 @@
     <img src="https://icon-library.com/images/hibernate-icon/hibernate-icon-0.jpg" title="Hibernate" alt="Hibernate" width="200" height="200"/>
 </div>
 
-
 ---
 
 ### Hi there 🖐️, I'm Askar
 
 ## I'm a beginer Java backend developer
-- 💪 I've been learning Java 2,5 years or 2500 hours.
-- ✌️  I've learned such tools as Java, Spring (Core, Web, REST, Data, Security), Hibernate, PostgreSQL.
+- 💪 I've been learning Java 2,5 years or 2500+ hours.
+- ✌️  I've learned such tools as Java, Spring (Core, Web, REST, Data, Security), Hibernate, PostgreSQL, JUnit, Mockito.
 - 👌  Now I write pet-projects and I'm ready for real work.
-- 🧠 I plan to learn such tools as JUnit, Mockito, Spring Test, Swagger, Docker, Kubernetes,
+- 🧠 I plan to learn such tools as Swagger, Docker, Kubernetes,
       Kafka, CI/CD and many other things. I like writting code.
 
 ### Connect with me:
