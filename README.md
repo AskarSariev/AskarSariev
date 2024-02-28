@@ -11,12 +11,9 @@
 
 ### Hi there 🖐️, I'm Askar
 
-## I'm a beginer Java backend developer
-- 💪 I've been learning Java 2,5 years or 2500+ hours.
-- ✌️  I've learned such tools as Java, Spring (Core, Web, REST, Data, Security), Hibernate, PostgreSQL, JUnit, Mockito.
-- 👌  Now I write pet-projects and I'm ready for real work.
-- 🧠 I plan to learn such tools as Swagger, Docker, Kubernetes,
-      Kafka, CI/CD and many other things. I like writting code.
+## I'm a Java backend developer
+- 💪 I've been writing in Java 4 years.
+- ✌️  My technology stack: Java, Spring (Core, Web, REST, Data, Security), Hibernate, PostgreSQL, MongoDB, Kafka, Docker, Kubernetes, JUnit, Mockito, OpenAPI.
 
 ### Connect with me:
 
