@@ -12,8 +12,8 @@
 ### Hi there 🖐️, I'm Askar
 
 ## I'm a Java backend developer
-- 💪 I've been writing in Java 4 years.
-- ✌️  My technology stack: Java, Spring (Core, Web, REST, Data, Security), Hibernate, PostgreSQL, MongoDB, Kafka, Docker, Kubernetes, JUnit, Mockito, OpenAPI.
+- I've been writing in Java 4 years.
+- My technology stack: Java, Spring (Core, Web, REST, Data, Security), Hibernate, PostgreSQL, MongoDB, Kafka, Docker, Kubernetes, JUnit, Mockito, OpenAPI.
 
 ### Connect with me:
 
